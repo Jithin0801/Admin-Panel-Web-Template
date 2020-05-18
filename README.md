@@ -21,7 +21,7 @@ Import the db file in MySql workbench and change the server name according your 
 2. Place the War file in the TomcatRootDirectory/webapps/
 3. Start the tomcat server.
 4. The war file which we placed will be automatically deployed
-5. Then type the address of the tomcat server mostly http://localhsot:<port number>/webapps/<WAR file name>/
+5. Then type the address of the tomcat server mostly http://localhsot:(port number)/webapps/(WAR file name)/
 6. It will automatically load the index.html.
 
 Form there you can continue using the website.
